@@ -12,12 +12,12 @@
   "dependencies": {
     "body-parser": "^1.12.4",
     "express": "^4.12.4",
-    "express-jwt": "^3.0.1",
-    "jsonwebtoken": "^5.0.1"
+    "express-jwt": "^5.0.0",
+    "jsonwebtoken": "^7.1.9"
   },
   "devDependencies": {
-    "mocha": "^2.2.5",
-    "supertest": "^1.0.1"
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
   },
   "repository": {
     "type": "git",
